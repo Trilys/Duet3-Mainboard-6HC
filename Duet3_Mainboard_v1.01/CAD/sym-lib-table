@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Duet3)(type Legacy)(uri T:/Git/Kicad/ADNucleis/Duet3-Mainboard-6HC/Duet3_Mainboard_v1.01/CAD/Duet3.lib)(options "")(descr ""))
+)
